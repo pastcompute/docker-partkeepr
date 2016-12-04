@@ -9,6 +9,8 @@ following command:
 
     $ docker run -d -p 8080:80 --name partkeepr mhubig/partkeepr:0.1.9-1
 
+Point your browser at http://localhost:8080 and login with the initial username and password of admin and admin.
+
 [1]: https://github.com/petervanderdoes/gitflow
 [2]: http://www.partkeepr.org
 [3]: https://www.docker.io
